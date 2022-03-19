@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **well more on data visualization, SQL and R**
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/kris6374](https://public.tableau.com/app/profile/kris6374)
+- 👩🏾‍💻 All of my projects are available at [https://public.tableau.com/app/profile/kris6374](https://public.tableau.com/app/profile/kris6374)
 
 - 📫 How to reach me **kris@gmail.com**
 

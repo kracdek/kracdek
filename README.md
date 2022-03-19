@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">I'm an aspiring data analyst, making baby steps towards something big and beautiful!</h3>
+<img src="https://www.canva.com/design/DAE7c-FbrhM/JmUjsISxnw8v0zFtlQwZZA/edit?utm_content=DAE7c-FbrhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton alt="kracdek" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kracdek&label=Profile%20views&color=0e75b6&style=flat" alt="kracdek" /> </p>
 

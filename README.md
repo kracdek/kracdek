@@ -46,14 +46,14 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 </a>
 <a href="https://www.twitter.com/bytesofbree">
     <img 
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter Logo Badge"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail Logo Badge"
     >
 </a>
 <a href="https://www.instagram.com/bytesofbree">
     <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram Logo Badge"
+        src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+        alt="Telegram Logo Badge"
     >
 </a>
 

@@ -60,8 +60,3 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kracdek&show_icons=true&locale=en&layout=compact" alt="kracdek" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kracdek&show_icons=true&locale=en" alt="kracdek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kracdek&" alt="kracdek" /></p>

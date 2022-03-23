@@ -45,13 +45,13 @@ I'm a software engineer with a love for frontend web development. I'm currently 
         alt="LinkedIn Logo Badge"
     >
 </a>
-<a href="snehalrajin88@gmail.com" target="_blank">
+<a href="christabeldekayie@gmail.com" target="_blank">
     <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="Gmail Logo Badge"
     >
 </a>
-<a href="https://www.instagram.com/bytesofbree">
+<a href="" target="_blank">
     <img 
         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         alt="Telegram Logo Badge"

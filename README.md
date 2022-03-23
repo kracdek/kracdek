@@ -2,21 +2,23 @@
 
 # 👋🏾 Hey, I'm Kris!
 
-I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
+I am an aspiring Dtat Analyst in pursuit of Data Analyst remote opportunities. My preferred on-the-job technologies are SQL, Excel and Tableau. Please check out my GitHub Repositories to further understand additional technologies I’m experienced in using. I am also a work in progress IT Project Manager. 
+I enjoy structuring complexities and organizing details into interactive reports, visualizations, and presentations for my stakeholders and making educated business decisions. Working with large and complex datasets is exciting for me because I'm undeniably driven by facts and data to make decisions in all aspects of my life especially in business. Also, as an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies from scratch for the development and continuous improvement of operational processes.
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kracdek/kracdek/blob/main/imageedit_2_3130515898.gif?raw=true">
 
 **Fun Facts**
 
-🌟  The first language I used to program "Hello World" was Java
+🌟  The first language I used to program "Hello World" was Python
 
 🧁  I've always loved baking and owned a cupcake business for a short period of time
 
-📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
+🍿  I love TV shows and movies and have recently started diving into the comics. I tend to watch animes most of the time.
 
-✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
+🙋🏾‍♀️  I love to meet new people and explore various types of connections.
 
-🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
+👩🏾‍🦱  I love spending time with my hair giving myself a new look *sometimes*._
 
 ---
 

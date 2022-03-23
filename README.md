@@ -36,6 +36,27 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 ---
 
+## 🥳 Connect With Me
+
+<a href="https://www.youtube.com/c/breehall">
+    <img 
+        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        alt="YouTube Logo Badge"
+    >
+</a>
+<a href="https://www.twitter.com/bytesofbree">
+    <img 
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Twitter Logo Badge"
+    >
+</a>
+<a href="https://www.instagram.com/bytesofbree">
+    <img 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram Logo Badge"
+    >
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/not yet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="not yet" height="30" width="40" /></a>

@@ -1,4 +1,4 @@
-![Bree Hall Github Banner](<img src="https://github.com/kracdek/kracdek/blob/main/Kris%20DEKAYIE-2.gif?raw=true" alt="khushboogoel01" />)
+![Bree Hall Github Banner](https://github.com/kracdek/kracdek/blob/main/Kris%20DEKAYIE-2.gif?raw=true)
 
 # 👋🏾 Hey, I'm Kris!
 

@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">I'm an aspiring data analyst, making baby steps towards something big and beautiful!</h3>
-<img src="https://www.canva.com/design/DAE7c-FbrhM/JmUjsISxnw8v0zFtlQwZZA/edit?utm_content=DAE7c-FbrhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton alt="kracdek" />
+![Bree Hall Github Banner](<img src="https://github.com/kracdek/kracdek/blob/main/Kris%20DEKAYIE-2.gif?raw=true" alt="khushboogoel01" />)
 
+# 👋🏾 Hey, I'm Kris!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kracdek&label=Profile%20views&color=0e75b6&style=flat" alt="kracdek" /> </p>
+I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kracdek" alt="kracdek" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analysis projects**
 

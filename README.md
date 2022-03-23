@@ -6,21 +6,35 @@ I'm a software engineer with a love for frontend web development. I'm currently 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kracdek/kracdek/blob/main/imageedit_2_3130515898.gif?raw=true">
 
-- 🔭 I’m currently working on **Data Analysis projects**
+**Fun Facts**
 
-- 🌱 I’m currently learning **Python, Java, HTML/CSS**
+🌟  The first language I used to program "Hello World" was Java
 
-- 👯 I’m looking to collaborate on **COLLABO**
+🧁  I've always loved baking and owned a cupcake business for a short period of time
 
-- 🤝 I’m looking for help with **well more on data visualization, SQL and R**
+📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
 
-- 👩🏾‍💻 All of my projects are available at [https://public.tableau.com/app/profile/kris6374](https://public.tableau.com/app/profile/kris6374)
+✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
 
-- 📫 How to reach me **kris@gmail.com**
+🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **The Legend of Zelda: Twilight Princess**, but the game I loved the most this year was **Persona 5: Royal**
 
-- 📄 Know about my experiences [RESUME LINK](RESUME LINK)
+---
 
-- ⚡ Fun fact **I think I'm funny**
+## 🔨 My Current Tech Stack
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## ✏️ Currently Leanring
+🎨 **NextJS** - To build docs and my own blog
+
+🖥️ **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

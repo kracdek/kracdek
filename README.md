@@ -4,7 +4,6 @@
 
 I'm a software engineer with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/kracdek/kracdek/blob/main/imageedit_2_3130515898.gif?raw=true">
 
 - 🔭 I’m currently working on **Data Analysis projects**

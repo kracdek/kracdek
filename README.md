@@ -2,7 +2,7 @@
 
 # 👋🏾 Hey, I'm Kris!
 
-I am an aspiring Dtat Analyst in pursuit of Data Analyst remote opportunities. My preferred on-the-job technologies are SQL, Excel and Tableau. Please check out my GitHub Repositories to further understand additional technologies I’m experienced in using. I am also a work in progress IT Project Manager. 
+I am an aspiring Data Analyst in pursuit of Data Analyst remote opportunities. My preferred on-the-job technologies are SQL, Excel and Tableau. Please check out my GitHub Repositories to further understand additional technologies I’m experienced in using. I am also a work in progress IT Project Manager. 
 I enjoy structuring complexities and organizing details into interactive reports, visualizations, and presentations for my stakeholders and making educated business decisions. Working with large and complex datasets is exciting for me because I'm undeniably driven by facts and data to make decisions in all aspects of my life especially in business. Also, as an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies from scratch for the development and continuous improvement of operational processes.
 
 

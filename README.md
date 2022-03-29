@@ -12,7 +12,7 @@ I enjoy structuring complexities and organizing details into interactive reports
 
 🌟  The first language I used to program "Hello World" was Python
 
-🧁  I've always loved baking and owned a cupcake business for a short period of time
+🧁  I've always loved cooking and had a mini food business for sometime.
 
 🍿  I love TV shows and movies and have recently started diving into the comics. I tend to watch animes most of the time.
 

@@ -54,7 +54,7 @@ I enjoy structuring complexities and organizing details into interactive reports
         alt="Gmail Logo Badge"
     >
 </a>
-<a href="" target="https://t.me/helloKrisC">
+<a href="https://t.me/helloKrisC">
     <img 
         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         alt="Telegram Logo Badge"

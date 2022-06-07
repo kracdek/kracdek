@@ -8,6 +8,11 @@ I enjoy structuring complexities and organizing details into interactive reports
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kracdek/kracdek/blob/main/imageedit_2_3130515898.gif?raw=true">
 
+You can also check out **[my portfolio](https://christabeldekayie.wixsite.com/mysite)**
+
+
+
+
 **Fun Facts**
 
 🌟  The first language I used to program "Hello World" was Python
